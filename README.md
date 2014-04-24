@@ -1,4 +1,5 @@
-Instructions
+## Instructions
+
 1. Download the data from 
    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Unzip
